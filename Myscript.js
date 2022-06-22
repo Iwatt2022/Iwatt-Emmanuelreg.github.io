@@ -1,7 +1,7 @@
 JavaScript Calculator 
 <!-- create table -->
 <body>
-<div class = title >Edureka JavaScript Calculator</div>
+<div class = title >Iwatt JavaScript Calculator</div>
 <table border= "1" >
 <tr>
 <td><input type= "button" value= "c" onclick= "clr()" /> </td>
